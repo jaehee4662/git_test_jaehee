@@ -1,0 +1,7 @@
+C:\Users\samsung\Desktop\클라우드\jaehee_git_wa\bin\Release\net6.0\publish\jaehee_git_wa.exe
+C:\Users\samsung\Desktop\클라우드\jaehee_git_wa\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\samsung\Desktop\클라우드\jaehee_git_wa\bin\Release\net6.0\publish\appsettings.json
+C:\Users\samsung\Desktop\클라우드\jaehee_git_wa\bin\Release\net6.0\publish\jaehee_git_wa.dll
+C:\Users\samsung\Desktop\클라우드\jaehee_git_wa\bin\Release\net6.0\publish\jaehee_git_wa.deps.json
+C:\Users\samsung\Desktop\클라우드\jaehee_git_wa\bin\Release\net6.0\publish\jaehee_git_wa.runtimeconfig.json
+C:\Users\samsung\Desktop\클라우드\jaehee_git_wa\bin\Release\net6.0\publish\jaehee_git_wa.pdb
